@@ -3,7 +3,7 @@ Templete can be used for free
 It features signup, login and dashboard page 
 
 
-
+CEREATE DB with SQL below;
 CREATE TABLE adminlogin (
     id INT PRIMARY KEY AUTO_INCREMENT,
     name VARCHAR(255) NOT NULL,
